@@ -2,7 +2,7 @@
 
 It's a Pharmacy application that help you in curing basic symptoms and diseases with medicines available in your home.
 
-<img src="images/MedKit.png">
+<img src="Medical-application_flutter/images/MedKit.png">
 
 # How to Run Code
 Clone or download the repo and place it anywhere in your computer. Open the folder in Android Studio or VS Code. Make sure that you have flutter SDK already installed. Type the command in terminal:
@@ -35,13 +35,13 @@ A patient can perform the following features for now:
 # Screen Shots
 
 ## Welcome and User Type
-<img src="images/welcome.jpg" width = 200> <img src="images/user.jpg" width = 200>
+<img src="Medical-application_flutter/images/welcome.jpg" width = 200> <img src="Medical-application_flutter/images/user.jpg" width = 200>
 
 ## Doctor Part
-<img src="images/doctoLogin.jpg" width = 200> <img src="images/doctorpanel.jpg" width = 200> <img src="images/doctorEdit.jpg" width = 200> <img src="images/doctorProfile.jpg" width = 200>
+<img src="Medical-application_flutter/images/doctoLogin.jpg" width = 200> <img src="Medical-application_flutter/images/doctorpanel.jpg" width = 200> <img src="Medical-application_flutter/images/doctorEdit.jpg" width = 200> <img src="Medical-application_flutter/images/doctorProfile.jpg" width = 200>
 
 ## Patient Part
-<img src="images/patientLogin.jpg" width = 200> <img src="images/patientPanel.jpg" width = 200> <img src="images/medDetails.jpg" width = 200> <img src="images/doctorDetails.jpg" width = 200> <img src="images/patientProfile.jpg" width = 200>
+<img src="Medical-application_flutter/images/patientLogin.jpg" width = 200> <img src="Medical-application_flutter/images/patientPanel.jpg" width = 200> <img src="Medical-application_flutter/images/medDetails.jpg" width = 200> <img src="Medical-application_flutter/images/doctorDetails.jpg" width = 200> <img src="Medical-application_flutter/images/patientProfile.jpg" width = 200>
 
 # Features in Future
 Following features could be added in future:
